@@ -1,0 +1,1245 @@
+{
+  "text": "No Description of work\nNo Length Preadth Height Quantity Remarks\n1\nWall\nC1 Wall\n1 30 80 24.00\nPlaster, Toilet\n(2\n2 30\n80 48.00\n2\n12040\n25\n1\n1030 3.6\nC3 Water Proofing\n40\n56:0\n3 20\n995\n240 16 10.99\n",
+  "tables": [
+    {
+      "rows": [
+        [
+          "No Description of work",
+          "No",
+          "Length",
+          "Preadth",
+          "Height",
+          "Quantity",
+          "Remarks"
+        ],
+        [
+          "1\nWall\nC1 Wall",
+          "1",
+          "30",
+          "80",
+          "24.00",
+          "",
+          ""
+        ],
+        [
+          "Plaster, Toilet\n(2\n2",
+          "2",
+          "30",
+          "80",
+          "48.00",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "12040",
+          "",
+          "25",
+          "",
+          ""
+        ],
+        [
+          "",
+          "1",
+          "1030",
+          "",
+          "3.6",
+          "",
+          ""
+        ],
+        [
+          "C3 Water Proofing",
+          "3",
+          "20",
+          "40\n995",
+          "56:0",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "240",
+          "16",
+          "10.99",
+          "",
+          ""
+        ]
+      ],
+      "rowCount": 6,
+      "columnCount": 7
+    }
+  ],
+  "entities": [
+    {
+      "properties": [
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "65",
+                "endIndex": "71"
+              }
+            ],
+            "content": ""
+          },
+          "type": "quantity",
+          "mentionText": "1\nWall",
+          "mentionId": "",
+          "confidence": 0.49673616886138916,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.14860334992408752,
+                      "y": 0.18437500298023224
+                    },
+                    {
+                      "x": 0.25139665603637695,
+                      "y": 0.18437500298023224
+                    },
+                    {
+                      "x": 0.25139665603637695,
+                      "y": 0.19843749701976776
+                    },
+                    {
+                      "x": 0.14860334992408752,
+                      "y": 0.19843749701976776
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "0",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        },
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "80",
+                "endIndex": "81"
+              }
+            ],
+            "content": ""
+          },
+          "type": "quantity",
+          "mentionText": "1",
+          "mentionId": "",
+          "confidence": 0.9061089754104614,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.4111731946468353,
+                      "y": 0.18437500298023224
+                    },
+                    {
+                      "x": 0.4301675856113434,
+                      "y": 0.18437500298023224
+                    },
+                    {
+                      "x": 0.4301675856113434,
+                      "y": 0.20546874403953552
+                    },
+                    {
+                      "x": 0.4111731946468353,
+                      "y": 0.20546874403953552
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "1",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        },
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "82",
+                "endIndex": "84"
+              }
+            ],
+            "content": ""
+          },
+          "type": "quantity",
+          "mentionText": "30",
+          "mentionId": "",
+          "confidence": 0.8679234385490417,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.4670391082763672,
+                      "y": 0.18515625596046448
+                    },
+                    {
+                      "x": 0.5184357762336731,
+                      "y": 0.18515625596046448
+                    },
+                    {
+                      "x": 0.5184357762336731,
+                      "y": 0.20781250298023224
+                    },
+                    {
+                      "x": 0.4670391082763672,
+                      "y": 0.20781250298023224
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "2",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        },
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "85",
+                "endIndex": "87"
+              }
+            ],
+            "content": ""
+          },
+          "type": "quantity",
+          "mentionText": "80",
+          "mentionId": "",
+          "confidence": 0.779869019985199,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.5396648049354553,
+                      "y": 0.1875
+                    },
+                    {
+                      "x": 0.5910614728927612,
+                      "y": 0.1875
+                    },
+                    {
+                      "x": 0.5910614728927612,
+                      "y": 0.20937499403953552
+                    },
+                    {
+                      "x": 0.5396648049354553,
+                      "y": 0.20937499403953552
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "3",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        },
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "88",
+                "endIndex": "93"
+              }
+            ],
+            "content": ""
+          },
+          "type": "price",
+          "mentionText": "24.00",
+          "mentionId": "",
+          "confidence": 0.15222784876823425,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.632402241230011,
+                      "y": 0.18984374403953552
+                    },
+                    {
+                      "x": 0.7273743152618408,
+                      "y": 0.18984374403953552
+                    },
+                    {
+                      "x": 0.7273743152618408,
+                      "y": 0.21328124403953552
+                    },
+                    {
+                      "x": 0.632402241230011,
+                      "y": 0.21328124403953552
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "4",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        },
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "113",
+                "endIndex": "114"
+              }
+            ],
+            "content": ""
+          },
+          "type": "quantity",
+          "mentionText": "2",
+          "mentionId": "",
+          "confidence": 0.8898417353630066,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.4134078323841095,
+                      "y": 0.24531249701976776
+                    },
+                    {
+                      "x": 0.44022345542907715,
+                      "y": 0.24531249701976776
+                    },
+                    {
+                      "x": 0.44022345542907715,
+                      "y": 0.26249998807907104
+                    },
+                    {
+                      "x": 0.4134078323841095,
+                      "y": 0.26249998807907104
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "5",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        },
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "115",
+                "endIndex": "117"
+              }
+            ],
+            "content": ""
+          },
+          "type": "quantity",
+          "mentionText": "30",
+          "mentionId": "",
+          "confidence": 0.9132484793663025,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.47039106488227844,
+                      "y": 0.24687500298023224
+                    },
+                    {
+                      "x": 0.5128491520881653,
+                      "y": 0.24687500298023224
+                    },
+                    {
+                      "x": 0.5128491520881653,
+                      "y": 0.26484376192092896
+                    },
+                    {
+                      "x": 0.47039106488227844,
+                      "y": 0.26484376192092896
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "6",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        },
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "118",
+                "endIndex": "120"
+              }
+            ],
+            "content": ""
+          },
+          "type": "quantity",
+          "mentionText": "80",
+          "mentionId": "",
+          "confidence": 0.8199143409729004,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.548603355884552,
+                      "y": 0.25
+                    },
+                    {
+                      "x": 0.5899441242218018,
+                      "y": 0.25
+                    },
+                    {
+                      "x": 0.5899441242218018,
+                      "y": 0.2679687440395355
+                    },
+                    {
+                      "x": 0.548603355884552,
+                      "y": 0.2679687440395355
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "7",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        },
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "121",
+                "endIndex": "126"
+              }
+            ],
+            "content": ""
+          },
+          "type": "price",
+          "mentionText": "48.00",
+          "mentionId": "",
+          "confidence": 0.240849569439888,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.624580979347229,
+                      "y": 0.24843749403953552
+                    },
+                    {
+                      "x": 0.7184357643127441,
+                      "y": 0.24843749403953552
+                    },
+                    {
+                      "x": 0.7184357643127441,
+                      "y": 0.2671875059604645
+                    },
+                    {
+                      "x": 0.624580979347229,
+                      "y": 0.2671875059604645
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "8",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        },
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "127",
+                "endIndex": "128"
+              }
+            ],
+            "content": ""
+          },
+          "type": "quantity",
+          "mentionText": "2",
+          "mentionId": "",
+          "confidence": 0.37293893098831177,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.0011173184029757977,
+                      "y": 0.2789062559604645
+                    },
+                    {
+                      "x": 0.016759777441620827,
+                      "y": 0.2789062559604645
+                    },
+                    {
+                      "x": 0.016759777441620827,
+                      "y": 0.28828126192092896
+                    },
+                    {
+                      "x": 0.0011173184029757977,
+                      "y": 0.28828126192092896
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "9",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        },
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "135",
+                "endIndex": "137"
+              }
+            ],
+            "content": ""
+          },
+          "type": "price",
+          "mentionText": "25",
+          "mentionId": "",
+          "confidence": 0.7336735725402832,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.6413407921791077,
+                      "y": 0.3070312440395355
+                    },
+                    {
+                      "x": 0.6882681846618652,
+                      "y": 0.3070312440395355
+                    },
+                    {
+                      "x": 0.6882681846618652,
+                      "y": 0.3218750059604645
+                    },
+                    {
+                      "x": 0.6413407921791077,
+                      "y": 0.3218750059604645
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "10",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        },
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "138",
+                "endIndex": "139"
+              }
+            ],
+            "content": ""
+          },
+          "type": "quantity",
+          "mentionText": "1",
+          "mentionId": "",
+          "confidence": 0.9276845455169678,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.43351954221725464,
+                      "y": 0.3570312559604645
+                    },
+                    {
+                      "x": 0.44022345542907715,
+                      "y": 0.3570312559604645
+                    },
+                    {
+                      "x": 0.44022345542907715,
+                      "y": 0.36796873807907104
+                    },
+                    {
+                      "x": 0.43351954221725464,
+                      "y": 0.36796873807907104
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "11",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        },
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "140",
+                "endIndex": "144"
+              }
+            ],
+            "content": ""
+          },
+          "type": "price",
+          "mentionText": "1030",
+          "mentionId": "",
+          "confidence": 0.2427140325307846,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.4715083837509155,
+                      "y": 0.3570312559604645
+                    },
+                    {
+                      "x": 0.6000000238418579,
+                      "y": 0.3570312559604645
+                    },
+                    {
+                      "x": 0.6000000238418579,
+                      "y": 0.3812499940395355
+                    },
+                    {
+                      "x": 0.4715083837509155,
+                      "y": 0.3812499940395355
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "12",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        },
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "145",
+                "endIndex": "148"
+              }
+            ],
+            "content": ""
+          },
+          "type": "price",
+          "mentionText": "3.6",
+          "mentionId": "",
+          "confidence": 0.20354628562927246,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.6391061544418335,
+                      "y": 0.3531250059604645
+                    },
+                    {
+                      "x": 0.7005586624145508,
+                      "y": 0.3531250059604645
+                    },
+                    {
+                      "x": 0.7005586624145508,
+                      "y": 0.37578123807907104
+                    },
+                    {
+                      "x": 0.6391061544418335,
+                      "y": 0.37578123807907104
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "13",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        },
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "167",
+                "endIndex": "169"
+              }
+            ],
+            "content": ""
+          },
+          "type": "price",
+          "mentionText": "40",
+          "mentionId": "",
+          "confidence": 0.2337595820426941,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.5597765445709229,
+                      "y": 0.48359376192092896
+                    },
+                    {
+                      "x": 0.6033519506454468,
+                      "y": 0.48359376192092896
+                    },
+                    {
+                      "x": 0.6033519506454468,
+                      "y": 0.500781238079071
+                    },
+                    {
+                      "x": 0.5597765445709229,
+                      "y": 0.500781238079071
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "14",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        },
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "170",
+                "endIndex": "174"
+              }
+            ],
+            "content": ""
+          },
+          "type": "date_time",
+          "mentionText": "56:0",
+          "mentionId": "",
+          "confidence": 0.018815359100699425,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.6525139808654785,
+                      "y": 0.47968751192092896
+                    },
+                    {
+                      "x": 0.7128491401672363,
+                      "y": 0.47968751192092896
+                    },
+                    {
+                      "x": 0.7128491401672363,
+                      "y": 0.49531251192092896
+                    },
+                    {
+                      "x": 0.6525139808654785,
+                      "y": 0.49531251192092896
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "15",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        },
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "175",
+                "endIndex": "176"
+              }
+            ],
+            "content": ""
+          },
+          "type": "quantity",
+          "mentionText": "3",
+          "mentionId": "",
+          "confidence": 0.8339565992355347,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.4189944267272949,
+                      "y": 0.4867187440395355
+                    },
+                    {
+                      "x": 0.437988817691803,
+                      "y": 0.4867187440395355
+                    },
+                    {
+                      "x": 0.437988817691803,
+                      "y": 0.503125011920929
+                    },
+                    {
+                      "x": 0.4189944267272949,
+                      "y": 0.503125011920929
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "16",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        },
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "177",
+                "endIndex": "179"
+              }
+            ],
+            "content": ""
+          },
+          "type": "quantity",
+          "mentionText": "20",
+          "mentionId": "",
+          "confidence": 0.5726607441902161,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.464804470539093,
+                      "y": 0.4828124940395355
+                    },
+                    {
+                      "x": 0.5150837898254395,
+                      "y": 0.4828124940395355
+                    },
+                    {
+                      "x": 0.5150837898254395,
+                      "y": 0.500781238079071
+                    },
+                    {
+                      "x": 0.464804470539093,
+                      "y": 0.500781238079071
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "17",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        },
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "180",
+                "endIndex": "183"
+              }
+            ],
+            "content": ""
+          },
+          "type": "price",
+          "mentionText": "995",
+          "mentionId": "",
+          "confidence": 0.3129701614379883,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.5664804577827454,
+                      "y": 0.4742187559604645
+                    },
+                    {
+                      "x": 0.6033519506454468,
+                      "y": 0.4742187559604645
+                    },
+                    {
+                      "x": 0.6033519506454468,
+                      "y": 0.5054687261581421
+                    },
+                    {
+                      "x": 0.5664804577827454,
+                      "y": 0.5054687261581421
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "18",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        },
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "184",
+                "endIndex": "187"
+              }
+            ],
+            "content": ""
+          },
+          "type": "quantity",
+          "mentionText": "240",
+          "mentionId": "",
+          "confidence": 0.2738848030567169,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.4603351950645447,
+                      "y": 0.5406249761581421
+                    },
+                    {
+                      "x": 0.521787703037262,
+                      "y": 0.5406249761581421
+                    },
+                    {
+                      "x": 0.521787703037262,
+                      "y": 0.5601562261581421
+                    },
+                    {
+                      "x": 0.4603351950645447,
+                      "y": 0.5601562261581421
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "19",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        },
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "188",
+                "endIndex": "190"
+              }
+            ],
+            "content": ""
+          },
+          "type": "quantity",
+          "mentionText": "16",
+          "mentionId": "",
+          "confidence": 0.6321116089820862,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.5519552826881409,
+                      "y": 0.5406249761581421
+                    },
+                    {
+                      "x": 0.5977653861045837,
+                      "y": 0.5406249761581421
+                    },
+                    {
+                      "x": 0.5977653861045837,
+                      "y": 0.559374988079071
+                    },
+                    {
+                      "x": 0.5519552826881409,
+                      "y": 0.559374988079071
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "20",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        },
+        {
+          "properties": [],
+          "textAnchor": {
+            "textSegments": [
+              {
+                "startIndex": "191",
+                "endIndex": "196"
+              }
+            ],
+            "content": ""
+          },
+          "type": "price",
+          "mentionText": "10.99",
+          "mentionId": "",
+          "confidence": 0.5604047775268555,
+          "pageAnchor": {
+            "pageRefs": [
+              {
+                "page": "0",
+                "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+                "layoutId": "",
+                "boundingPoly": {
+                  "vertices": [],
+                  "normalizedVertices": [
+                    {
+                      "x": 0.6368715167045593,
+                      "y": 0.539843738079071
+                    },
+                    {
+                      "x": 0.7195530533790588,
+                      "y": 0.539843738079071
+                    },
+                    {
+                      "x": 0.7195530533790588,
+                      "y": 0.559374988079071
+                    },
+                    {
+                      "x": 0.6368715167045593,
+                      "y": 0.559374988079071
+                    }
+                  ]
+                },
+                "confidence": 0
+              }
+            ]
+          },
+          "id": "21",
+          "normalizedValue": null,
+          "provenance": null,
+          "redacted": false,
+          "method": "METHOD_UNSPECIFIED"
+        }
+      ],
+      "textAnchor": null,
+      "type": "generic_entities",
+      "mentionText": "",
+      "mentionId": "",
+      "confidence": 0,
+      "pageAnchor": {
+        "pageRefs": [
+          {
+            "page": "0",
+            "layoutType": "LAYOUT_TYPE_UNSPECIFIED",
+            "layoutId": "",
+            "boundingPoly": null,
+            "confidence": 0
+          }
+        ]
+      },
+      "id": "",
+      "normalizedValue": null,
+      "provenance": null,
+      "redacted": false,
+      "method": "METHOD_UNSPECIFIED"
+    }
+  ]
+}
