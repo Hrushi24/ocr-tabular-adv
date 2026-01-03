@@ -1,0 +1,213 @@
+{
+  "fullText": "Vage No-02.\nSite: Marsaya\nWorkCivil & Stone woontes\nMEASUREMENT FORM\nNo. Description of work or Meterial\nGl. wall- Siporex Locall\n3nd have oursicle wall\nToilet ledge wale\nNo\nDate 16/12/25\nNo. Length Breadth Height Quantity\n30 80 2400\n4-07\n29:32\nRemarks\nC2 Plaster\n2\nToilet ledge wall\n+\n74°\n-do-Tup\n'\nDoon Edge\nO'G\nLedgewee\n24\nTokal-D 53-3262\n30 80 48.00\n402932\n740678\nP-1\n10-0\n15\n3.66\n5-00\nToke SS-98\n2\n03 water proofing\non u\n(6·69+7.35 +4.55 +2.12 +2.00 +2-310\nfelge сосе\n24.82\n16\n37.232\n7'4'\n1'6 10-99 2\nou. Beni BOLF Colet\n2\nTOP 48·23'\nou Bolick batt Coba\n1\nS-23 5.90\n30.85\n1\n212 388\n3.22\nMade By:\nTotal 39.07 Sqft\nApproved by",
+  "blocks": [
+    {
+      "text": "Vage No - 02 .",
+      "confidence": 0.7251929640769958
+    },
+    {
+      "text": "Site : Marsaya\nWorkCivil & Stone woontes\nMEASUREMENT FORM",
+      "confidence": 0.8213337063789368
+    },
+    {
+      "text": "No. Description of work or Meterial\nGl . wall- Siporex Locall 3nd have oursicle wall\nToilet ledge wale",
+      "confidence": 0.720034122467041
+    },
+    {
+      "text": "No",
+      "confidence": 0.896060049533844
+    },
+    {
+      "text": "Date 16/12/25",
+      "confidence": 0.6605908274650574
+    },
+    {
+      "text": "No. Length Breadth Height Quantity",
+      "confidence": 0.9834897518157959
+    },
+    {
+      "text": "30 80 2400",
+      "confidence": 0.6424136757850647
+    },
+    {
+      "text": "4-07",
+      "confidence": 0.45769429206848145
+    },
+    {
+      "text": "29:32",
+      "confidence": 0.8001733422279358
+    },
+    {
+      "text": "Remarks",
+      "confidence": 0.9923173189163208
+    },
+    {
+      "text": "C2 Plaster",
+      "confidence": 0.7036072611808777
+    },
+    {
+      "text": "2",
+      "confidence": 0.9752909541130066
+    },
+    {
+      "text": "Toilet ledge wall",
+      "confidence": 0.7145884037017822
+    },
+    {
+      "text": "+",
+      "confidence": 0.5217606425285339
+    },
+    {
+      "text": "74 °",
+      "confidence": 0.5997368693351746
+    },
+    {
+      "text": "-do - Tup",
+      "confidence": 0.6502345204353333
+    },
+    {
+      "text": "'",
+      "confidence": 0.3379606008529663
+    },
+    {
+      "text": "Doon Edge",
+      "confidence": 0.6835774779319763
+    },
+    {
+      "text": "O'G",
+      "confidence": 0.384814977645874
+    },
+    {
+      "text": "Ledgewee",
+      "confidence": 0.4140346050262451
+    },
+    {
+      "text": "24",
+      "confidence": 0.43912482261657715
+    },
+    {
+      "text": "Tokal - D 53-3262",
+      "confidence": 0.5831367373466492
+    },
+    {
+      "text": "30 80 48.00\n402932",
+      "confidence": 0.6790885329246521
+    },
+    {
+      "text": "740678",
+      "confidence": 0.6856127977371216
+    },
+    {
+      "text": "P - 1",
+      "confidence": 0.7459998726844788
+    },
+    {
+      "text": "10-0\n15",
+      "confidence": 0.5729091763496399
+    },
+    {
+      "text": "3.66",
+      "confidence": 0.7389914989471436
+    },
+    {
+      "text": "5-00",
+      "confidence": 0.7021197080612183
+    },
+    {
+      "text": "Toke SS - 98",
+      "confidence": 0.4555114507675171
+    },
+    {
+      "text": "2",
+      "confidence": 0.9355287551879883
+    },
+    {
+      "text": "03 water proofing",
+      "confidence": 0.7152010798454285
+    },
+    {
+      "text": "on u",
+      "confidence": 0.6297454833984375
+    },
+    {
+      "text": "( 6 · 69 + 7.35 +4.55 +2.12 +2.00 + 2-310",
+      "confidence": 0.7191093564033508
+    },
+    {
+      "text": "felge сосе",
+      "confidence": 0.6756948232650757
+    },
+    {
+      "text": "24.82",
+      "confidence": 0.8455325365066528
+    },
+    {
+      "text": "16",
+      "confidence": 0.3826063275337219
+    },
+    {
+      "text": "37.232",
+      "confidence": 0.6614955067634583
+    },
+    {
+      "text": "7'4 '",
+      "confidence": 0.6862651109695435
+    },
+    {
+      "text": "1'6 10-99 2",
+      "confidence": 0.5893008708953857
+    },
+    {
+      "text": "ou . Beni BOLF Colet",
+      "confidence": 0.4227588176727295
+    },
+    {
+      "text": "2",
+      "confidence": 0.8955661058425903
+    },
+    {
+      "text": "TOP 48 · 23 '",
+      "confidence": 0.5705134868621826
+    },
+    {
+      "text": "ou Bolick batt Coba",
+      "confidence": 0.6775059700012207
+    },
+    {
+      "text": "1",
+      "confidence": 0.6090987920761108
+    },
+    {
+      "text": "S - 23 5.90",
+      "confidence": 0.6586127281188965
+    },
+    {
+      "text": "30.85",
+      "confidence": 0.7484785914421082
+    },
+    {
+      "text": "1",
+      "confidence": 0.5846049785614014
+    },
+    {
+      "text": "212 388",
+      "confidence": 0.9492928385734558
+    },
+    {
+      "text": "3.22",
+      "confidence": 0.5908543467521667
+    },
+    {
+      "text": "Made By :",
+      "confidence": 0.9495494365692139
+    },
+    {
+      "text": "Total 39.07 Sqft",
+      "confidence": 0.7378471493721008
+    },
+    {
+      "text": "Approved by",
+      "confidence": 0.9915590882301331
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "fullText": "A\nB\nD\nE\nF\n1 Country ▾ Salesperson\nOrder Date OrderID\nUnits ▾\nOrder Amount\n2\nUSA\nFuller\n1/01/2021\n10392\n13\n1,440.00\n3 UK\nGloucester\n2/01/2021\n10397\n17\n716.72\n4 UK\nBromley\n2/01/2021\n10771\n18\n344.00\n5 USA\nFinchley\n3/01/2021\n10393\n16\n2,556.95\n6 USA\nFinchley\n3/01/2021\n10394\n10\n442.00\n7 UK\nGillingham\n3/01/2021\n10395\n9\n2,122.92\n8 USA\nFinchley\n6/01/2021\n10396\n7\n1,903.80\n9 USA\nCallahan\n8/01/2021\n10399\n17\n1,765.60\n10 USA\nFuller\n8/01/2021\n10404\n7\n1,591.25\n11 USA\nFuller\n9/01/2021\n10398\n11\n2,505.60\n12 UK\nCoghill\n9/01/2021\n10403\n18\n855.01\n13 USA\nFinchley\n10/01/2021\n10401\n7\n3,868.60\n14 USA\nBromley\n10/01/2021\n10402\n11\n2,713.50\n15 UK\nRayleigh\n13/01/2021\n10406\n15\n1,830.78\n16 USA\nCallahan\n14/01/2021\n10408\n10\n1,622.40\n17 UK\nFarnham\n14/01/2021\n10409\n19\n319.20\n18\nUSA\nFarnham\n15/01/2021\n10410\n16\n19 USA\nCallahan\n15/01/2021\n10412\n600\n802.00\n8\n334.80\n20 USA\nCallahan\n16/01/2021\n10380\n8\n1,313.82",
+  "blocks": [
+    {
+      "text": "A",
+      "confidence": 0.980509340763092
+    },
+    {
+      "text": "B",
+      "confidence": 0.9531228542327881
+    },
+    {
+      "text": "D",
+      "confidence": 0.9510239362716675
+    },
+    {
+      "text": "E",
+      "confidence": 0.9766120314598083
+    },
+    {
+      "text": "F",
+      "confidence": 0.9744507670402527
+    },
+    {
+      "text": "1 Country ▾ Salesperson",
+      "confidence": 0.9417094588279724
+    },
+    {
+      "text": "Order Date OrderID",
+      "confidence": 0.9636029601097107
+    },
+    {
+      "text": "Units ▾",
+      "confidence": 0.8704401850700378
+    },
+    {
+      "text": "Order Amount",
+      "confidence": 0.9922447204589844
+    },
+    {
+      "text": "2",
+      "confidence": 0.9548788070678711
+    },
+    {
+      "text": "USA",
+      "confidence": 0.9934527277946472
+    },
+    {
+      "text": "Fuller",
+      "confidence": 0.9915263652801514
+    },
+    {
+      "text": "1/01/2021",
+      "confidence": 0.986163854598999
+    },
+    {
+      "text": "10392",
+      "confidence": 0.9909607172012329
+    },
+    {
+      "text": "13",
+      "confidence": 0.9488011002540588
+    },
+    {
+      "text": "1,440.00",
+      "confidence": 0.9820494651794434
+    },
+    {
+      "text": "3 UK",
+      "confidence": 0.9573726654052734
+    },
+    {
+      "text": "Gloucester",
+      "confidence": 0.9935123324394226
+    },
+    {
+      "text": "2/01/2021",
+      "confidence": 0.9857601523399353
+    },
+    {
+      "text": "10397",
+      "confidence": 0.9904889464378357
+    },
+    {
+      "text": "17",
+      "confidence": 0.9836611151695251
+    },
+    {
+      "text": "716.72",
+      "confidence": 0.9775105714797974
+    },
+    {
+      "text": "4 UK",
+      "confidence": 0.9717947244644165
+    },
+    {
+      "text": "Bromley",
+      "confidence": 0.992878258228302
+    },
+    {
+      "text": "2/01/2021",
+      "confidence": 0.987882137298584
+    },
+    {
+      "text": "10771",
+      "confidence": 0.9900533556938171
+    },
+    {
+      "text": "18",
+      "confidence": 0.9639688730239868
+    },
+    {
+      "text": "344.00",
+      "confidence": 0.9839254021644592
+    },
+    {
+      "text": "5 USA",
+      "confidence": 0.9842217564582825
+    },
+    {
+      "text": "Finchley",
+      "confidence": 0.9913333058357239
+    },
+    {
+      "text": "3/01/2021",
+      "confidence": 0.9858424067497253
+    },
+    {
+      "text": "10393",
+      "confidence": 0.9707919955253601
+    },
+    {
+      "text": "16",
+      "confidence": 0.9612634181976318
+    },
+    {
+      "text": "2,556.95",
+      "confidence": 0.9769018888473511
+    },
+    {
+      "text": "6 USA",
+      "confidence": 0.9858224391937256
+    },
+    {
+      "text": "Finchley",
+      "confidence": 0.9916583895683289
+    },
+    {
+      "text": "3/01/2021",
+      "confidence": 0.9880325794219971
+    },
+    {
+      "text": "10394",
+      "confidence": 0.9902913570404053
+    },
+    {
+      "text": "10",
+      "confidence": 0.9807940721511841
+    },
+    {
+      "text": "442.00",
+      "confidence": 0.9869214296340942
+    },
+    {
+      "text": "7 UK",
+      "confidence": 0.9676715135574341
+    },
+    {
+      "text": "Gillingham",
+      "confidence": 0.992215633392334
+    },
+    {
+      "text": "3/01/2021",
+      "confidence": 0.9864200949668884
+    },
+    {
+      "text": "10395",
+      "confidence": 0.9830417037010193
+    },
+    {
+      "text": "9",
+      "confidence": 0.9477159380912781
+    },
+    {
+      "text": "2,122.92",
+      "confidence": 0.976013720035553
+    },
+    {
+      "text": "8 USA",
+      "confidence": 0.9639565348625183
+    },
+    {
+      "text": "Finchley",
+      "confidence": 0.9913896322250366
+    },
+    {
+      "text": "6/01/2021",
+      "confidence": 0.9886936545372009
+    },
+    {
+      "text": "10396",
+      "confidence": 0.9890246987342834
+    },
+    {
+      "text": "7",
+      "confidence": 0.9395167827606201
+    },
+    {
+      "text": "1,903.80",
+      "confidence": 0.9761492013931274
+    },
+    {
+      "text": "9 USA",
+      "confidence": 0.9767206311225891
+    },
+    {
+      "text": "Callahan",
+      "confidence": 0.9923568964004517
+    },
+    {
+      "text": "8/01/2021",
+      "confidence": 0.9868656396865845
+    },
+    {
+      "text": "10399",
+      "confidence": 0.9886343479156494
+    },
+    {
+      "text": "17",
+      "confidence": 0.9836611151695251
+    },
+    {
+      "text": "1,765.60",
+      "confidence": 0.9774420857429504
+    },
+    {
+      "text": "10 USA",
+      "confidence": 0.9857613444328308
+    },
+    {
+      "text": "Fuller",
+      "confidence": 0.9931856393814087
+    },
+    {
+      "text": "8/01/2021",
+      "confidence": 0.9882892966270447
+    },
+    {
+      "text": "10404",
+      "confidence": 0.989584743976593
+    },
+    {
+      "text": "7",
+      "confidence": 0.9431862235069275
+    },
+    {
+      "text": "1,591.25",
+      "confidence": 0.9695737361907959
+    },
+    {
+      "text": "11 USA",
+      "confidence": 0.9874374866485596
+    },
+    {
+      "text": "Fuller",
+      "confidence": 0.9926579594612122
+    },
+    {
+      "text": "9/01/2021",
+      "confidence": 0.9898351430892944
+    },
+    {
+      "text": "10398",
+      "confidence": 0.9888915419578552
+    },
+    {
+      "text": "11",
+      "confidence": 0.9803467988967896
+    },
+    {
+      "text": "2,505.60",
+      "confidence": 0.9819176197052002
+    },
+    {
+      "text": "12 UK",
+      "confidence": 0.973762035369873
+    },
+    {
+      "text": "Coghill",
+      "confidence": 0.9910416007041931
+    },
+    {
+      "text": "9/01/2021",
+      "confidence": 0.988580048084259
+    },
+    {
+      "text": "10403",
+      "confidence": 0.9880814552307129
+    },
+    {
+      "text": "18",
+      "confidence": 0.9677254557609558
+    },
+    {
+      "text": "855.01",
+      "confidence": 0.9778720140457153
+    },
+    {
+      "text": "13 USA",
+      "confidence": 0.9859961271286011
+    },
+    {
+      "text": "Finchley",
+      "confidence": 0.9920592308044434
+    },
+    {
+      "text": "10/01/2021",
+      "confidence": 0.9890086650848389
+    },
+    {
+      "text": "10401",
+      "confidence": 0.9871752262115479
+    },
+    {
+      "text": "7",
+      "confidence": 0.9682219624519348
+    },
+    {
+      "text": "3,868.60",
+      "confidence": 0.9769346714019775
+    },
+    {
+      "text": "14 USA",
+      "confidence": 0.9858732223510742
+    },
+    {
+      "text": "Bromley",
+      "confidence": 0.9923977255821228
+    },
+    {
+      "text": "10/01/2021",
+      "confidence": 0.9915146231651306
+    },
+    {
+      "text": "10402",
+      "confidence": 0.9907810688018799
+    },
+    {
+      "text": "11",
+      "confidence": 0.9696731567382812
+    },
+    {
+      "text": "2,713.50",
+      "confidence": 0.9813060760498047
+    },
+    {
+      "text": "15 UK",
+      "confidence": 0.9719125032424927
+    },
+    {
+      "text": "Rayleigh",
+      "confidence": 0.9797713756561279
+    },
+    {
+      "text": "13/01/2021",
+      "confidence": 0.9888105392456055
+    },
+    {
+      "text": "10406",
+      "confidence": 0.9885779023170471
+    },
+    {
+      "text": "15",
+      "confidence": 0.9804739952087402
+    },
+    {
+      "text": "1,830.78",
+      "confidence": 0.9782938957214355
+    },
+    {
+      "text": "16 USA",
+      "confidence": 0.9850026369094849
+    },
+    {
+      "text": "Callahan",
+      "confidence": 0.9935692548751831
+    },
+    {
+      "text": "14/01/2021",
+      "confidence": 0.9895708560943604
+    },
+    {
+      "text": "10408",
+      "confidence": 0.9894819259643555
+    },
+    {
+      "text": "10",
+      "confidence": 0.9807940721511841
+    },
+    {
+      "text": "1,622.40",
+      "confidence": 0.9790690541267395
+    },
+    {
+      "text": "17 UK",
+      "confidence": 0.9728075265884399
+    },
+    {
+      "text": "Farnham",
+      "confidence": 0.9843255877494812
+    },
+    {
+      "text": "14/01/2021",
+      "confidence": 0.9888030290603638
+    },
+    {
+      "text": "10409",
+      "confidence": 0.9904241561889648
+    },
+    {
+      "text": "19",
+      "confidence": 0.976121187210083
+    },
+    {
+      "text": "319.20",
+      "confidence": 0.970085084438324
+    },
+    {
+      "text": "18",
+      "confidence": 0.9645954370498657
+    },
+    {
+      "text": "USA",
+      "confidence": 0.9862242937088013
+    },
+    {
+      "text": "Farnham",
+      "confidence": 0.9884860515594482
+    },
+    {
+      "text": "15/01/2021",
+      "confidence": 0.9887570142745972
+    },
+    {
+      "text": "10410",
+      "confidence": 0.9898208379745483
+    },
+    {
+      "text": "16",
+      "confidence": 0.9629215002059937
+    },
+    {
+      "text": "19 USA",
+      "confidence": 0.9816146492958069
+    },
+    {
+      "text": "Callahan",
+      "confidence": 0.993666410446167
+    },
+    {
+      "text": "15/01/2021",
+      "confidence": 0.989962637424469
+    },
+    {
+      "text": "10412",
+      "confidence": 0.9902835488319397
+    },
+    {
+      "text": "600",
+      "confidence": 0.5537536144256592
+    },
+    {
+      "text": "802.00",
+      "confidence": 0.9792454242706299
+    },
+    {
+      "text": "8",
+      "confidence": 0.9155463576316833
+    },
+    {
+      "text": "334.80",
+      "confidence": 0.9687416553497314
+    },
+    {
+      "text": "20 USA",
+      "confidence": 0.9878891706466675
+    },
+    {
+      "text": "Callahan",
+      "confidence": 0.9926619529724121
+    },
+    {
+      "text": "16/01/2021",
+      "confidence": 0.9785027503967285
+    },
+    {
+      "text": "10380",
+      "confidence": 0.985275149345398
+    },
+    {
+      "text": "8",
+      "confidence": 0.9225641489028931
+    },
+    {
+      "text": "1,313.82",
+      "confidence": 0.9870033860206604
+    }
+  ]
+}

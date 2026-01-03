@@ -1,0 +1,77 @@
+{
+  "fullText": "No Description of work\nC1 Wall\nNo Length Breadth Height Quantity Remarks\n13080\n24.00\nWall\nPlaster, Toilet\n(2\n2 30\n80 48.00\n12040\"\n25\n10 30 3.6\nC3 Water Proofing\n3 20\n4'0\n560\n240 16 10.99",
+  "blocks": [
+    {
+      "text": "No Description of work",
+      "confidence": 0.8527353405952454
+    },
+    {
+      "text": "C1 Wall",
+      "confidence": 0.8899813294410706
+    },
+    {
+      "text": "No Length Breadth Height Quantity Remarks",
+      "confidence": 0.8301882743835449
+    },
+    {
+      "text": "13080",
+      "confidence": 0.9474873542785645
+    },
+    {
+      "text": "24.00",
+      "confidence": 0.86687171459198
+    },
+    {
+      "text": "Wall",
+      "confidence": 0.9482115507125854
+    },
+    {
+      "text": "Plaster , Toilet",
+      "confidence": 0.9215938448905945
+    },
+    {
+      "text": "( 2",
+      "confidence": 0.7363162040710449
+    },
+    {
+      "text": "2 30",
+      "confidence": 0.9039283990859985
+    },
+    {
+      "text": "80 48.00",
+      "confidence": 0.7224297523498535
+    },
+    {
+      "text": "12040 \"",
+      "confidence": 0.839604377746582
+    },
+    {
+      "text": "25",
+      "confidence": 0.988516092300415
+    },
+    {
+      "text": "10 30 3.6",
+      "confidence": 0.837131679058075
+    },
+    {
+      "text": "C3 Water Proofing",
+      "confidence": 0.762096643447876
+    },
+    {
+      "text": "3 20",
+      "confidence": 0.8391920328140259
+    },
+    {
+      "text": "4'0",
+      "confidence": 0.842644453048706
+    },
+    {
+      "text": "560",
+      "confidence": 0.987689733505249
+    },
+    {
+      "text": "240 16 10.99",
+      "confidence": 0.7806968092918396
+    }
+  ]
+}
