@@ -1,4 +1,4 @@
-# OCR Tabular Advanced
+# OCR Image Batch Processor (JSON/CSV Export)
 
 An open-source Node.js project for extracting text from image files using **Google Cloud Vision OCR** and exporting results into structured **JSON** and **CSV** formats.
 
@@ -35,7 +35,7 @@ This is useful for invoices, receipts, reports, scanned forms, and other documen
    npm install
    ```
 2. Set up Google Cloud Vision credentials (service account JSON).
-3. Ensure your credential file path in `index.js` is valid.
+3. In `index.js`, update the `keyFilename` value in the `ImageAnnotatorClient` configuration (near the top of the file) so it points to your Google service-account JSON file.
 4. Add input images to `images/`.
 5. Run the project:
    ```bash
